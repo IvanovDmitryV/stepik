@@ -1,0 +1,12 @@
+<a href="http://stepik.org/courses">
+<a href='https://stepik.org'>
+<a href='http://neerc.ifmo.ru:1345'>
+<a href="ftp://mail.ru/distib" >
+<a href="ya.ru">
+<a href="www.ya.ru">
+<a href="../skip_relative_links">
+<a href="otc-stock.rbc.ru">
+<a href="www.m-2.ru">
+<h4 class="lightGreen mBottom4"><a href="http://www.nashidengi.ru">"Наши деньги"</a></h4>
+
+
